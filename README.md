@@ -1,2 +1,2 @@
 # Sell-the-tickets
-Java implementation of for selling ticket based on priority.
+Java implementation for simulating priority based queue and generating the time in seconds to allocate a ticket to a speciic person.
